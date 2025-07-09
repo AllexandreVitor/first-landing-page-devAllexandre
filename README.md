@@ -2,7 +2,7 @@
 
 📌 **Nível:** Iniciante  
 🎯 **Objetivo:** Recriar a interface de uma Landing Page como desafio de projeto do **Bootcamp** - **Santander 2025 - Front-End da Dio**.  
-🗣️ **Idioma utilizado:** English 
+🗣️ **Idioma utilizado:** English.   
 👨‍💻 **Desenvolvedor:** [devAllexandre](https://github.com/AllexandreVitor)   
 
 
