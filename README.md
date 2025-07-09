@@ -43,10 +43,9 @@ Após os conceitos básicos ensinados, foi proposto nesse desafio para clonarmos
 
 ## 📁 Organização das pastas
 📦 first-landing-page-devAllexandre    
-├── 📁 assets   
-│   ├── 📁 styles 
-│   │   └── style.css   
-│   └── 📁 images   
-│       └──   
+├── 📁 assets/   
+│   ├── 📁 styles/      
+│   │└── style.css   
+│   └── 📁 images/               
 ├── index.html  
 └── README.md   
